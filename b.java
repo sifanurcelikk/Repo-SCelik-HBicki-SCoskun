@@ -1,1 +1,1 @@
-change with C branch
+class B{}
